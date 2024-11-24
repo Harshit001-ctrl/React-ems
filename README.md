@@ -42,18 +42,18 @@ Postman: For testing REST API endpoints.
 GitHub: For version control and collaboration.
 
 Steps to Run
--> Clone the repository: using this https://github.com/Harshit001-ctrl/React-ems.git
--> Set up the frontend: npm install.
--> Start the React development server: npm run dev.
--> Access the application: Open your browser and navigate to http://localhost:5173 
+1. Clone the repository: using this https://github.com/Harshit001-ctrl/React-ems.git
+2. Set up the frontend: npm install.
+3. Start the React development server: npm run dev.
+4. Access the application: Open your browser and navigate to http://localhost:5173 
 
    📋 Components Used
 -> React Components
-EmployeeCard -> Displays individual employee details.
-TaskCard -> Displays task information and its current status.
-StatusBoard -> Displays tasks grouped by status (New, Accepted, Completed, Failed).
-AddEmployeeForm -> Form to add new employees.
-AddTaskForm -> Form to assign tasks.
+1. EmployeeCard: Displays individual employee details.
+2. TaskCard: Displays task information and its current status.
+3. StatusBoard: Displays tasks grouped by status (New, Accepted, Completed, Failed).
+4. AddEmployeeForm: Form to add new employees.
+5. AddTaskForm: Form to assign tasks.
 
   🌟 Future Enhancements
 1. Add user authentication for secure access.
