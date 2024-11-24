@@ -32,10 +32,10 @@ This status highlights tasks that require further attention, resolution, or reas
 
   🛠️ Technologies Used
 Frontend
-HTML5 & CSS3: For structuring and styling the application.
-JavaScript: For interactivity and logic implementation.
-Bootstrap: For responsive and modern UI design.
-React.js: For creating dynamic and reusable components.
+HTML5 & CSS3 -> For structuring and styling the application.
+JavaScript -> For interactivity and logic implementation.
+Bootstrap & Tailwind -> For responsive and modern UI design.
+React.js -> For creating dynamic and reusable components.
 
 Tools
 Postman: For testing REST API endpoints.
@@ -43,26 +43,26 @@ GitHub: For version control and collaboration.
 
 Steps to Run
 -> Clone the repository: using this https://github.com/Harshit001-ctrl/React-ems.git
-->  Set up the frontend: npm install.
+-> Set up the frontend: npm install.
 -> Start the React development server: npm run dev.
 -> Access the application: Open your browser and navigate to http://localhost:5173 
 
    📋 Components Used
 -> React Components
-EmployeeCard: Displays individual employee details.
-TaskCard: Displays task information and its current status.
-StatusBoard: Displays tasks grouped by status (New, Accepted, Completed, Failed).
-AddEmployeeForm: Form to add new employees.
-AddTaskForm: Form to assign tasks.
+EmployeeCard -> Displays individual employee details.
+TaskCard -> Displays task information and its current status.
+StatusBoard -> Displays tasks grouped by status (New, Accepted, Completed, Failed).
+AddEmployeeForm -> Form to add new employees.
+AddTaskForm -> Form to assign tasks.
 
   🌟 Future Enhancements
-Add user authentication for secure access.
-Implement advanced filtering options for tasks and employees.
-Integrate real-time notifications for task updates.
-Add a reporting module for insights into employee and task performance.
+1. Add user authentication for secure access.
+2. Implement advanced filtering options for tasks and employees.
+3. Integrate real-time notifications for task updates.
+4. Add a reporting module for insights into employee and task performance.
 
   📧 Contact
 For any questions or suggestions, feel free to reach out:
-Email: harshitrao84@gmail.com
+-> Email: harshitrao84@gmail.com
 
 This README provides all the necessary details for understanding and using your Employee Management System. You can customize the placeholders (e.g., your username) with your actual information.
