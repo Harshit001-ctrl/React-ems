@@ -31,37 +31,37 @@ This status highlights tasks that require further attention, resolution, or reas
 ![image alt](https://github.com/Harshit001-ctrl/React-ems/blob/2ac8d20ddf3b33f9fb25db79e8971701b17168ee/Fail%20Task.png).
 
   🛠️ Technologies Used
-Frontend
+Frontend : 
 HTML5 & CSS3 -> For structuring and styling the application.
 JavaScript -> For interactivity and logic implementation.
 Bootstrap & Tailwind -> For responsive and modern UI design.
 React.js -> For creating dynamic and reusable components.
 
-Tools
+Tools :
 Postman: For testing REST API endpoints.
 GitHub: For version control and collaboration.
 
-Steps to Run
+Steps to Run : 
 1. Clone the repository: using this https://github.com/Harshit001-ctrl/React-ems.git
 2. Set up the frontend: npm install.
 3. Start the React development server: npm run dev.
 4. Access the application: Open your browser and navigate to http://localhost:5173 
 
-   📋 Components Used
--> React Components
+📋 Components Used
+-> React Components : 
 1. EmployeeCard: Displays individual employee details.
 2. TaskCard: Displays task information and its current status.
 3. StatusBoard: Displays tasks grouped by status (New, Accepted, Completed, Failed).
 4. AddEmployeeForm: Form to add new employees.
 5. AddTaskForm: Form to assign tasks.
 
-  🌟 Future Enhancements
+🌟 Future Enhancements
 1. Add user authentication for secure access.
 2. Implement advanced filtering options for tasks and employees.
 3. Integrate real-time notifications for task updates.
 4. Add a reporting module for insights into employee and task performance.
 
-  📧 Contact
+ 📧 Contact
 For any questions or suggestions, feel free to reach out:
 -> Email: harshitrao84@gmail.com
 
